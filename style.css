@@ -1,0 +1,64 @@
+body {
+  background-color: hsl(216, 12%, 8%);
+}
+.card {
+  background-color: hsl(213, 19%, 18%);
+  width: 400px;
+  height: 400px;
+  margin: auto;
+  margin-top: 130px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  display: flex;
+  align-items: center;
+}
+.container {
+ 
+  width: 80%;
+  height: 70%;
+  margin: auto;
+  display: flex;
+  flex-direction: column;
+}
+.card1 {
+}
+.card1 img {
+  border-radius: 50%;
+  background-color: hsl(216, 20%, 31%);
+  padding:10px;
+}
+p{
+    color:hsl(217, 12%, 63%);
+    font-size: 15px;
+}
+h1{
+    color:white;
+}
+.btn1{
+   margin-bottom: 30px;
+}
+.btn{
+    
+    border-radius: 49%;
+    padding: 14px;
+    margin-right: 25px;
+    background-color: hsl(216, 20%, 31%);
+    color:hsl(217, 12%, 63%);
+    border:none;
+    font-size: 14px;
+    
+}
+/* .btn:hover{
+    background-color: blueviolet;
+} */
+.jane{
+    width:90%;
+    padding: 12px;
+    border-radius: 30px;
+    background-color: hsl(25, 97%, 53%);
+    color:hsl(0, 0%, 100%);
+    text-transform: uppercase;
+    border:none;
+}
